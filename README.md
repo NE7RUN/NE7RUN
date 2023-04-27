@@ -16,7 +16,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="code" alt="code" width="40" height="40"/>&nbsp;
 </div>
-  
+<br/>  
+<br/>
  </p>
 
 [![](https://raw.githubusercontent.com/NE7RUN/NE7RUN/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
