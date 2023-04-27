@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="100"/>
 
-
----
 <div align="center">
    <h1>Languages and tols</h1>
    
