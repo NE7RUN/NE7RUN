@@ -3,8 +3,9 @@
 </div>
 
 ---
-
-Languages and Tools
+<div align="center">
+## Languages and Tools
+  </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="sharp" alt="sharp" width="40" height="40"/>&nbsp;
