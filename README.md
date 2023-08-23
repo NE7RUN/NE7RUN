@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="300"/>
 
 <div align="center">
-   <h1>Languages and tols</h1>
+   <h1>Languages and tools</h1>
    
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
